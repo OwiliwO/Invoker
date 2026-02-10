@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_hand_lower",
+  "audioGroupId":{
+    "name":"Sound",
+    "path":"audiogroups/Sound",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.5368254,
+  "exportDir":"",
+  "name":"snd_hand_lower",
+  "parent":{
+    "name":"HANDS",
+    "path":"folders/Sounds/SOUNDS/HANDS.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_hand_lower.wav",
+  "volume":0.1,
+}

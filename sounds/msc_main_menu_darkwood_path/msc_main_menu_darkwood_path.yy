@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"msc_main_menu_darkwood_path",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":188.57141,
+  "exportDir":"",
+  "name":"msc_main_menu_darkwood_path",
+  "parent":{
+    "name":"MUSICS",
+    "path":"folders/Sounds/MUSICS.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"msc_main_menu_darkwood_path.mp3",
+  "volume":1.0,
+}

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_ui_click",
+  "audioGroupId":{
+    "name":"Sound",
+    "path":"audiogroups/Sound",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":3.0039456,
+  "exportDir":"",
+  "name":"snd_ui_click",
+  "parent":{
+    "name":"UI",
+    "path":"folders/Sounds/SOUNDS/UI.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_ui_click.wav",
+  "volume":0.4,
+}

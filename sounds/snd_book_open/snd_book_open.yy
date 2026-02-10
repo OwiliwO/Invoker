@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_book_open",
+  "audioGroupId":{
+    "name":"Sound",
+    "path":"audiogroups/Sound",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.88489795,
+  "exportDir":"",
+  "name":"snd_book_open",
+  "parent":{
+    "name":"BOOK",
+    "path":"folders/Sounds/SOUNDS/BOOK.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_book_open.mp3",
+  "volume":1.0,
+}

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_spell_emp",
+  "audioGroupId":{
+    "name":"Sound",
+    "path":"audiogroups/Sound",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":1,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":3.0,
+  "exportDir":"",
+  "name":"snd_spell_emp",
+  "parent":{
+    "name":"SPELLS",
+    "path":"folders/Sounds/SOUNDS/SPELLS.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_spell_emp.mp3",
+  "volume":0.4,
+}

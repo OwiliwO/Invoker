@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"msc_main_menu_elven_dawn",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":179.99998,
+  "exportDir":"",
+  "name":"msc_main_menu_elven_dawn",
+  "parent":{
+    "name":"MUSICS",
+    "path":"folders/Sounds/MUSICS.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"msc_main_menu_elven_dawn.mp3",
+  "volume":0.6,
+}

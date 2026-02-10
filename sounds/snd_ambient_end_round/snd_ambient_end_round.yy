@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_ambient_end_round",
+  "audioGroupId":{
+    "name":"Sound",
+    "path":"audiogroups/Sound",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":6.022993,
+  "exportDir":"",
+  "name":"snd_ambient_end_round",
+  "parent":{
+    "name":"UI",
+    "path":"folders/Sounds/SOUNDS/UI.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_ambient_end_round.mp3",
+  "volume":0.5,
+}

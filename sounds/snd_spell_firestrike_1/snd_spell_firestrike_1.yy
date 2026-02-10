@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_spell_firestrike_1",
+  "audioGroupId":{
+    "name":"Sound",
+    "path":"audiogroups/Sound",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":1,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":1.2185034,
+  "exportDir":"",
+  "name":"snd_spell_firestrike_1",
+  "parent":{
+    "name":"SPELLS",
+    "path":"folders/Sounds/SOUNDS/SPELLS.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_spell_firestrike_1.wav",
+  "volume":1.0,
+}

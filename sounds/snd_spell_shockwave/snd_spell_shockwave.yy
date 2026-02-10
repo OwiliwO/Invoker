@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_spell_shockwave",
+  "audioGroupId":{
+    "name":"Sound",
+    "path":"audiogroups/Sound",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":1,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":7.910794,
+  "exportDir":"",
+  "name":"snd_spell_shockwave",
+  "parent":{
+    "name":"SPELLS",
+    "path":"folders/Sounds/SOUNDS/SPELLS.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_spell_shockwave.wav",
+  "volume":0.4,
+}
